@@ -1,5 +1,13 @@
 # hardware-embedding-system-praktikum
 hardware embedding system praktikum&amp;homework@TU Dresden 2019 winter semester
+## lab2 homework : stramvector alu
+### result: multiply operation, vector size = 1024
+![image](https://github.com/chrisHuxi/hardware-embedding-system-praktikum/blob/master/img/lab2_hw1.PNG)
+
+
+![image](https://github.com/chrisHuxi/hardware-embedding-system-praktikum/blob/master/img/result_lab2_hw.jfif)
+
+![image](https://github.com/chrisHuxi/hardware-embedding-system-praktikum/blob/master/img/debug_result_lab2_hw.jfif)
 
 ## lab1 homework 2: vector alu
 ### code from ARM:
